@@ -1,42 +1,5 @@
-![JavaScript]([https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E](https://www.notion.so/Gimana-Cara-Pake-WhatsApp-Bot-732ae369797f48ddae04d4cc613d0461?pvs=4#ebbfc77bc4a1482694bd3786ed974b68
-
-https://www.notion.so/Gimana-Cara-Pake-WhatsApp-Bot-732ae369797f48ddae04d4cc613d0461?pvs=4#295febf7f0ff4fe9ba6abacb41ab0459
-
-https://www.notion.so/Gimana-Cara-Pake-WhatsApp-Bot-732ae369797f48ddae04d4cc613d0461?pvs=4#ab6f735b3aac4b0a98423929c0e746ee
-
-https://www.notion.so/Gimana-Cara-Pake-WhatsApp-Bot-732ae369797f48ddae04d4cc613d0461?pvs=4#1735c93dd8f64ed6b6d15bc9094a4637
-
-https://www.notion.so/Gimana-Cara-Pake-WhatsApp-Bot-732ae369797f48ddae04d4cc613d0461?pvs=4#3c7d935c6dcb45ff9d84e60ff19c91b9
-
-https://www.notion.so/Gimana-Cara-Pake-WhatsApp-Bot-732ae369797f48ddae04d4cc613d0461?pvs=4#c3d1fb2f3b24409e8b338a3571fc65b0
-
-https://www.notion.so/Gimana-Cara-Pake-WhatsApp-Bot-732ae369797f48ddae04d4cc613d0461?pvs=4#6b1c15e13b334558967a06b19ebdd868
-
-https://www.notion.so/Gimana-Cara-Pake-WhatsApp-Bot-732ae369797f48ddae04d4cc613d0461?pvs=4#7a7fa78a58ae460ba9719384215039bb
-
-https://www.notion.so/Gimana-Cara-Pake-WhatsApp-Bot-732ae369797f48ddae04d4cc613d0461?pvs=4#2b594a095cf74136aaad5efbaf78e02a
-
-https://www.notion.so/Gimana-Cara-Pake-WhatsApp-Bot-732ae369797f48ddae04d4cc613d0461?pvs=4#43329b07285740829d59984ed8b5c392
-
-https://www.notion.so/Gimana-Cara-Pake-WhatsApp-Bot-732ae369797f48ddae04d4cc613d0461?pvs=4#4008717c85074d849d84e5e316c78ed8
-
-https://www.notion.so/Gimana-Cara-Pake-WhatsApp-Bot-732ae369797f48ddae04d4cc613d0461?pvs=4#4f3c9d6478d54b8aa98a1e761a4800a7
-
-https://www.notion.so/Gimana-Cara-Pake-WhatsApp-Bot-732ae369797f48ddae04d4cc613d0461?pvs=4#386a7a7cec154d7ca54860d10045e577
-
-https://www.notion.so/Gimana-Cara-Pake-WhatsApp-Bot-732ae369797f48ddae04d4cc613d0461?pvs=4#76ad332b7b7f44dead50fe3b7128b207
-
-https://www.notion.so/Gimana-Cara-Pake-WhatsApp-Bot-732ae369797f48ddae04d4cc613d0461?pvs=4#f428aa834b9a477389e7b98f3a9926fe
-
-https://www.notion.so/Gimana-Cara-Pake-WhatsApp-Bot-732ae369797f48ddae04d4cc613d0461?pvs=4#9419b0a8e45c48d6b8b9ba1d4c40f522
-
-https://www.notion.so/Gimana-Cara-Pake-WhatsApp-Bot-732ae369797f48ddae04d4cc613d0461?pvs=4#c6bae6b6635c416ebc98e3277fa8b4c7
-
-https://www.notion.so/Gimana-Cara-Pake-WhatsApp-Bot-732ae369797f48ddae04d4cc613d0461?pvs=4#82cf88b9d2a347be8b5ffe68bc70e374))
 # 💫 About Me:
 🚀 I like to learn various kinds of technology. but I'm still confused about which part to focus on
-
-![JavaScript](https://www.notion.so/Gimana-Cara-Pake-WhatsApp-Bot-732ae369797f48ddae04d4cc613d0461?pvs=4#ebbfc77bc4a1482694bd3786ed974b68)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/allailqadrillah_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-al-lail-qadrillah-55035625b) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@qadrillah) 
