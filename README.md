@@ -1,7 +1,5 @@
 # 💫 About Me:
-- :telescope: I’m a sixth-semester student persuing my studies in Electrical Engineer Universitas Syiah Kuala
-
-- :seedling: Lead of the Komunitas Robotik Electrical Engineering USK.
+- :telescope: I’m a last year student persuing my studies in Electrical Engineer Universitas Syiah Kuala
 
 - :zap: In my free time, I like learning new technology and read tech articles.
 
